@@ -1,3 +1,4 @@
 export const CONTENT = {
-  title: "My Video",
+  headline: "Rawdify Digitals",
+  subtitle: "Growth Through Strategy",
 };
